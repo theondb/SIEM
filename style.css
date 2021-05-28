@@ -1,0 +1,18 @@
+input[type=button], input[type=submit] {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+input[type=text] {
+  border: none;
+  border-bottom: 2px solid red;
+}
+
+.content{
+font-size: 20px;
+text-align: center;
+}
